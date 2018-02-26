@@ -1,4 +1,3 @@
 This is a new file for a new branch branch1.
-
 New line added by master branch, to produce the conflict.
-
+New line added in branch2.

@@ -2,6 +2,6 @@
 
 ###This is a change made in the second line, before commit and after staged. Verify the status after this change.###
 
-Putting to staging area, then unstaging it.
+###Putting to staging area, then unstaging it.###
 
 Checking the git checkout.
